@@ -1,7 +1,7 @@
-### README for the OOP Project: "Perfume Store Inventory Management System with Online and In-Store Sales"
+OOP Project: "Perfume Store Inventory Management System with Online and In-Store Sales"
 
 #### Project Overview
-This project is an enhanced version of a C++ application designed to simulate an inventory management system for a perfume store. It includes the management of perfumes, employees, sales (both online and in-store), and store inventory through various functionalities like creating, reading, updating, and deleting records. The project also demonstrates advanced OOP concepts like virtual functions, inheritance, and polymorphism.
+This project was made for my OOP class and is an enhanced version of a C++ application designed to simulate an inventory management system for a perfume store. It includes the management of perfumes, employees, sales (both online and in-store), and store inventory through various functionalities like creating, reading, updating, and deleting records. The project also demonstrates advanced OOP concepts like virtual functions, inheritance, and polymorphism.
 
 #### Classes Overview
 
